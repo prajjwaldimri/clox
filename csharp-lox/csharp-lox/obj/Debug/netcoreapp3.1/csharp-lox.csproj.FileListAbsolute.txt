@@ -1,0 +1,13 @@
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\bin\Debug\netcoreapp3.1\csharp-lox.exe
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\bin\Debug\netcoreapp3.1\csharp-lox.deps.json
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\bin\Debug\netcoreapp3.1\csharp-lox.runtimeconfig.json
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\bin\Debug\netcoreapp3.1\csharp-lox.runtimeconfig.dev.json
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\bin\Debug\netcoreapp3.1\csharp-lox.dll
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\bin\Debug\netcoreapp3.1\csharp-lox.pdb
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\obj\Debug\netcoreapp3.1\csharp-lox.csprojAssemblyReference.cache
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\obj\Debug\netcoreapp3.1\csharp-lox.csproj.CoreCompileInputs.cache
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\obj\Debug\netcoreapp3.1\csharp-lox.AssemblyInfoInputs.cache
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\obj\Debug\netcoreapp3.1\csharp-lox.AssemblyInfo.cs
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\obj\Debug\netcoreapp3.1\csharp-lox.dll
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\obj\Debug\netcoreapp3.1\csharp-lox.pdb
+C:\Users\HP-PD\source\repos\clox\csharp-lox\csharp-lox\obj\Debug\netcoreapp3.1\csharp-lox.genruntimeconfig.cache
